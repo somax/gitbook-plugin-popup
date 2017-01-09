@@ -1,0 +1,17 @@
+{
+    "name": "gitbook-plugin-popup",
+    "description": "plugin for GitBook, open image in new window",
+    "main": "index.js",
+    "version": "0.0.1",
+    "engines": {
+        "gitbook": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/somax/gitbook-plugin-popup.git"
+    },
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/somax/gitbook-plugin-popup/issues"
+    }
+}
